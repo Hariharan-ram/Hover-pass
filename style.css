@@ -85,5 +85,6 @@ input:checked + label .description {
     background-image: url(./global.jpg)
 }
 .card[for="c4"] {
-    background-image: url(./newtechnology.jpg)
+    background-image: url(./new.jpg)
 }
+
